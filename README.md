@@ -2,6 +2,10 @@
 
 SevaCare is a smart medical reminder web application that helps users manage their medications, set reminders, and never miss a dose.
 
+## ❓ Problem Statement
+
+Many people forget to take medicines on time, which can affect their health and recovery. SevaCare solves this by providing timely reminders and easy tracking of medications.
+
 ## 🚀 Features
 
 * ⏰ Set medicine reminders
