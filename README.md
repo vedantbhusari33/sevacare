@@ -8,10 +8,10 @@ Many people forget to take medicines on time, which can affect their health and 
 
 ## 🚀 Features
 
-* ⏰ Set medicine reminders
-* 💊 Track medications
-* 🔔 Notification alerts
-* 📱 Responsive UI
+- ⏰ Smart medicine reminders
+- 💊 Medication tracking system
+- 🔔 Real-time notifications
+- 📱 Responsive and user-friendly interface
 
 ## 🛠 Tech Stack
 
