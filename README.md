@@ -12,6 +12,7 @@ Many people forget to take medicines on time, which can affect their health and 
 - 💊 Medication tracking system
 - 🔔 Real-time notifications
 - 📱 Responsive and user-friendly interface
+- AI-based health suggestions
 
 ## 🛠 Tech Stack
 
@@ -29,24 +30,28 @@ PASTE_YOUR_LINK_HERE
 
 <p align="center">
   <img src="PASTE_IMAGE_LINK_HERE" width="600"/>
-</p>
-
-### ⏰ Reminder Setup
-
-<p align="center">
-  <img src="PASTE_IMAGE_LINK_HERE" width="600"/>
+  <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/2bd2e45e-3c8b-4cb3-b749-9028c628d790" />
 </p>
 
 ### 💊 Dashboard
 
 <p align="center">
   <img src="PASTE_IMAGE_LINK_HERE" width="600"/>
+  <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/8be5d334-e190-4852-a49b-2f19aaf33b34" />
+</p>
+
+### ⏰ Reminder Setup
+
+<p align="center">
+  <img src="PASTE_IMAGE_LINK_HERE" width="600"/>
+  <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/914a6bee-bb58-45d0-9ad8-d2caf4fe0a9c" />
 </p>
 
 ### 🔔 Notification View
 
 <p align="center">
   <img src="PASTE_IMAGE_LINK_HERE" width="600"/>
+  <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/fb563fee-534d-4ee3-a200-e3b339708af9" />
 </p>
 
 ## ⚙️ Installation
@@ -60,7 +65,6 @@ npm start
 
 ## 📌 Future Improvements
 
-* AI-based health suggestions
 * Mobile app version
 * Doctor integration
 
