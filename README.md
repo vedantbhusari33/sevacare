@@ -49,6 +49,12 @@ PASTE_YOUR_LINK_HERE
   <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/914a6bee-bb58-45d0-9ad8-d2caf4fe0a9c" />
 </p>
 
+### ⏰ Reminder Setup
+
+<p align="center">
+  <img src="./screenshots/reminder.png" width="600"/>
+</p>
+
 ### 🔔 Notification View
 
 <p align="center">
