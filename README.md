@@ -26,40 +26,31 @@ PASTE_YOUR_LINK_HERE
 
 ## 📸 Screenshots
 
-### 🏥 Home Page
+### 📝 Sign Up Page
 
 <p align="center">
   <img src="PASTE_IMAGE_LINK_HERE" width="600"/>
-  <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/2bd2e45e-3c8b-4cb3-b749-9028c628d790" />
+  <img width="300" height="1600" alt="image" src="https://github.com/user-attachments/assets/2bd2e45e-3c8b-4cb3-b749-9028c628d790" />
 </p>
 
 ### 💊 Dashboard
 
 <p align="center">
-  <img src="<img width="715" height="1385" alt="image" src="https://github.com/user-attachments/assets/347b94c1-82c4-4076-b2dc-8a12a54cc572" />
-" width="600"/>
   <img width="300" height="1600" alt="image" src="https://github.com/user-attachments/assets/a32ea8b7-9577-4240-838f-657c28338625" />
-
 </p>
 
 ### ⏰ Reminder Setup
 
 <p align="center">
   <img src="PASTE_IMAGE_LINK_HERE" width="600"/>
-  <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/914a6bee-bb58-45d0-9ad8-d2caf4fe0a9c" />
-</p>
-
-### ⏰ Reminder Setup
-
-<p align="center">
-  <img src="./screenshots/reminder.png" width="600"/>
+  <img width="300" height="1600" alt="image" src="https://github.com/user-attachments/assets/914a6bee-bb58-45d0-9ad8-d2caf4fe0a9c" />
 </p>
 
 ### 🔔 Notification View
 
 <p align="center">
   <img src="PASTE_IMAGE_LINK_HERE" width="600"/>
-  <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/fb563fee-534d-4ee3-a200-e3b339708af9" />
+  <img width="300" height="1600" alt="image" src="https://github.com/user-attachments/assets/fb563fee-534d-4ee3-a200-e3b339708af9" />
 </p>
 
 ## ⚙️ Installation
