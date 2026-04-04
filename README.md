@@ -38,7 +38,7 @@ PASTE_YOUR_LINK_HERE
 <p align="center">
   <img src="<img width="715" height="1385" alt="image" src="https://github.com/user-attachments/assets/347b94c1-82c4-4076-b2dc-8a12a54cc572" />
 " width="600"/>
-  <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/a32ea8b7-9577-4240-838f-657c28338625" />
+  <img width="300" height="1600" alt="image" src="https://github.com/user-attachments/assets/a32ea8b7-9577-4240-838f-657c28338625" />
 
 </p>
 
