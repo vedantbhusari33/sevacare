@@ -47,7 +47,7 @@ PASTE_YOUR_LINK_HERE
 ### 🔔 Notification View
 
 <p align="center">
-  <img width="717" height="1365" alt="image" src="https://github.com/user-attachments/assets/493fe041-cbfb-44ce-90ca-8e6eebf87cda" />
+  <img width="300" height="1365" alt="image" src="https://github.com/user-attachments/assets/493fe041-cbfb-44ce-90ca-8e6eebf87cda" />
 </p>
 
 ## ⚙️ Installation
