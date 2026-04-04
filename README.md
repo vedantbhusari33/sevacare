@@ -29,7 +29,7 @@ PASTE_YOUR_LINK_HERE
 ### 📝 Sign Up Page
 
 <p align="center">
-  <img width="718" height="1351" alt="image" src="https://github.com/user-attachments/assets/4dccfb4d-d3ec-41b8-8d78-de7a288980a0" />
+  <img width="300" height="1351" alt="image" src="https://github.com/user-attachments/assets/4dccfb4d-d3ec-41b8-8d78-de7a288980a0" />
 </p>
 
 ### 💊 Dashboard
@@ -41,15 +41,13 @@ PASTE_YOUR_LINK_HERE
 ### ⏰ Reminder Setup
 
 <p align="center">
-  <img src="PASTE_IMAGE_LINK_HERE" width="600"/>
-  <img width="300" height="1600" alt="image" src="https://github.com/user-attachments/assets/914a6bee-bb58-45d0-9ad8-d2caf4fe0a9c" />
+  <img width="300" height="1371" alt="image" src="https://github.com/user-attachments/assets/ed4ab465-d302-4215-bd6d-7f7772235cbc" />
 </p>
 
 ### 🔔 Notification View
 
 <p align="center">
-  <img src="PASTE_IMAGE_LINK_HERE" width="600"/>
-  <img width="300" height="1600" alt="image" src="https://github.com/user-attachments/assets/fb563fee-534d-4ee3-a200-e3b339708af9" />
+  <img width="717" height="1365" alt="image" src="https://github.com/user-attachments/assets/493fe041-cbfb-44ce-90ca-8e6eebf87cda" />
 </p>
 
 ## ⚙️ Installation
