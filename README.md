@@ -36,8 +36,10 @@ PASTE_YOUR_LINK_HERE
 ### 💊 Dashboard
 
 <p align="center">
-  <img src="PASTE_IMAGE_LINK_HERE" width="600"/>
-  <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/8be5d334-e190-4852-a49b-2f19aaf33b34" />
+  <img src="<img width="715" height="1385" alt="image" src="https://github.com/user-attachments/assets/347b94c1-82c4-4076-b2dc-8a12a54cc572" />
+" width="600"/>
+  <img width="715" height="1385" alt="image" src="https://github.com/user-attachments/assets/a32ea8b7-9577-4240-838f-657c28338625" />
+
 </p>
 
 ### ⏰ Reminder Setup
