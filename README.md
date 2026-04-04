@@ -29,8 +29,7 @@ PASTE_YOUR_LINK_HERE
 ### 📝 Sign Up Page
 
 <p align="center">
-  <img src="PASTE_IMAGE_LINK_HERE" width="600"/>
-  <img width="300" height="1600" alt="image" src="https://github.com/user-attachments/assets/2bd2e45e-3c8b-4cb3-b749-9028c628d790" />
+  <img width="718" height="1351" alt="image" src="https://github.com/user-attachments/assets/4dccfb4d-d3ec-41b8-8d78-de7a288980a0" />
 </p>
 
 ### 💊 Dashboard
