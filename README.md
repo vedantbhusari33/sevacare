@@ -20,10 +20,6 @@ Many people forget to take medicines on time, which can affect their health and 
 * Backend: Node.js, Express.js
 * Database: MongoDB
 
-## 🌐 Live Demo
-
-PASTE_YOUR_LINK_HERE
-
 ## 📸 Screenshots
 
 ### 📝 Sign Up Page
